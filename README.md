@@ -4,7 +4,7 @@
 
 - 👀 Actualmente me estoy formando como Full-Stack Developer
 - ⚙️ Construir y crear en todas sus formas es una de mis pasiones...
-- ⚡️ Recientemente terminado módulo de Python
+- ⚡️ Recientemente terminado módulo de CSS avanzado
 - 🥸 Tengo alguns pequeños proyectos para que le eches un ojo 👀
 
 ## ✉️ Contacto
